@@ -1,6 +1,6 @@
 #!/bin/bash
 
-organization="huetruong"
+organization="huemattic"
 authorizedKeysFile="$HOME/.ssh/authorized_keys"
 
 createAuthorizedKeysFile() {

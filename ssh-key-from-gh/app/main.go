@@ -12,7 +12,7 @@ import (
 
 func main() {
 	// GitHub organization name
-	organization := "huetruong"
+	organization := "huemattic"
 
 	// Path to the "authorized_keys" file
 	authorizedKeysFile := filepath.Join(getUserHomeDir(), ".ssh", "authorized_keys")
