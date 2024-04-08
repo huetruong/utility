@@ -23,7 +23,7 @@ fi
 
 # Clone the repository
 echo "Cloning the repository..."
-git clone https://github.com/JustYAMLGuys/utility.git /tmp/app
+git clone https://github.com/huetruong/utility.git /tmp/app
 cd /tmp/app/utility/ssh-key-from-gh/app || exit 1
 
 # Build and run the Go program
